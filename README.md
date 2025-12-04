@@ -1,2 +1,3 @@
-# Sprint1_BugReport.xlsx
-First Sprint Bug report in Spanish for tripleten
+Sprint 1 Project:
+Manual Testing.
+Included an Excel file with bug reports and test cases for URBAN
